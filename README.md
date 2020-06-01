@@ -38,7 +38,7 @@ A list of libraries that help you manage state in your JavaScript applications.
 * Browser Support: ...
 * Size: 7.3kB minified, 2.6kB minified + gzipped (framework support package will increase size)
 
-## [Unstaded](https://github.com/jamiebuilds/unstated)
+## [Unstated](https://github.com/jamiebuilds/unstated)
 
 * Supports: React
 * Pros:
